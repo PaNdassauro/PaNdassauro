@@ -1,14 +1,8 @@
 # oi, eu sou o pandassauro
 
-```ts
-const me = {
-  role:    ["ceo", "dj", "comediante"],
-  email:   "dhgabardo@gmail.com",
-  status:  "shipping",
-}
-```
+$\color{#FF6B35}{\textsf{\Large ceo, dj e comediante.}}$
 
-### $\color{#FF6B35}{\textsf{// construindo agora}}$
+### $\color{#FF6B35}{\textsf{construindo agora}}$
 
 <table>
   <tr>
@@ -21,11 +15,7 @@ const me = {
   </tr>
 </table>
 
-### $\color{#4A90E2}{\textsf{// stack}}$
-
-```bash
-$ cat ~/.stack
-```
+### $\color{#4A90E2}{\textsf{stack}}$
 
 ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -42,14 +32,16 @@ $ cat ~/.stack
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### $\color{#B084CC}{\textsf{// side quests}}$
+### $\color{#B084CC}{\textsf{side quests}}$
 
-```diff
-+ poseit — câmera que sugere pose com silhueta sobreposta
-```
+- **poseit** — câmera que sugere pose com silhueta sobreposta
+
+### $\color{#FF6B35}{\textsf{me achar por aqui}}$
+
+**email** — `dhgabardo@gmail.com`
 
 ---
 
 > "INFLAMAAA, BORA"
 
-<p align="center"><i>𝓵𝓪 𝓳𝓸𝔂</i> social club</p>
+<p align="center"><i>𝓵𝓪 𝓳𝓸𝔂 𝓼𝓸𝓬𝓲𝓪𝓵 𝓬𝓵𝓾𝓫</i></p>
