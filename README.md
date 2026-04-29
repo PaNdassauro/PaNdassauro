@@ -17,9 +17,9 @@ $\color{#888888}{\textsf{Eu faço deploy de coisa. Muita coisa.}}$
 
 ### $\color{#FF6B35}{\textsf{o que eu tô construindo agora}}$
 
-- **[Echo](https://echo-br.com)** — stack de mensageria via WhatsApp pra hospitalidade. Echo-WPP, Echo-Welcome, um QR service e uns dashboards segurando tudo.
-- **[Memora](https://github.com/PaNdassauro/Memora-OpenSource)** — biblioteca de fotos auto-hospedada com álbuns por EXIF, visualização em mapa, reconhecimento facial on-device. Roda 100% em Docker. Sem dependência de SaaS. *Suas fotos, sua máquina.*
-- **A stack Welcome** — calendarioconvidados, welcome-auth-portal, gerenciador de cashback, dashboards de webhook. Encanamento SaaS de turismo/hospitalidade pra [Welcome Trips](https://welcometrips.com.br).
+- **Echo** — stack de mensageria via WhatsApp pra hospitalidade. Multi-instância, painel pra equipe e o encanamento que faz tudo conversar com o resto do negócio.
+- **Memora** — biblioteca de fotos auto-hospedada com álbuns por EXIF, visualização em mapa, reconhecimento facial on-device. Roda 100% em Docker. Sem dependência de SaaS. *Suas fotos, sua máquina.* [&#40;versão open source&#41;](https://github.com/PaNdassauro/Memora-OpenSource)
+- **A stack Welcome** — calendário de convidados, portal de auth, gerenciador de cashback e dashboards operacionais. O encanamento SaaS de turismo/hospitalidade que mantém a [Welcome Trips](https://welcometrips.com.br) rodando.
 
 ### $\color{#4A90E2}{\textsf{a stack que eu sempre volto}}$
 
