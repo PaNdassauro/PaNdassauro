@@ -1,50 +1,45 @@
 # Oi, eu sou o PaNdassauro
 
-$\color{#FF6B35}{\textsf{\Large Metade panda, metade dinossauro, full-time builder.}}$
+$\color{#FF6B35}{\textsf{\Large CEO, DJ e comediante.}}$
 
 $\color{#888888}{\textsf{Eu faço deploy de coisa. Muita coisa.}}$
 
-```
-       __
-   .-.'  `; `-._
-  (_,         .-:'
-,'o"(         (_)
-(__,-'      ,'(|
-   (       ( ,'
-   `-'\   ,'
-       `-'
-```
-
 ### $\color{#FF6B35}{\textsf{o que eu tô construindo agora}}$
 
-- **Echo** — stack de mensageria via WhatsApp pra hospitalidade. Multi-instância, painel pra equipe e o encanamento que faz tudo conversar com o resto do negócio.
-- **Memora** — biblioteca de fotos auto-hospedada com álbuns por EXIF, visualização em mapa, reconhecimento facial on-device. Roda 100% em Docker. Sem dependência de SaaS. *Suas fotos, sua máquina.* [&#40;versão open source&#41;](https://github.com/PaNdassauro/Memora-OpenSource)
-- **A stack Welcome** — calendário de convidados, portal de auth, gerenciador de cashback e dashboards operacionais. O encanamento SaaS de turismo/hospitalidade que mantém a [Welcome Trips](https://welcometrips.com.br) rodando.
+<table>
+  <tr>
+    <td width="40" align="center"><img src="./assets/echo-logo.png" width="32" /></td>
+    <td><b>Echo</b> — stack de mensageria via WhatsApp pra hospitalidade. Multi-instância, painel pra equipe e o encanamento que faz tudo conversar com o resto do negócio.</td>
+  </tr>
+  <tr>
+    <td width="40" align="center"><img src="./assets/memora-logo.png" width="32" /></td>
+    <td><b>Memora</b> — biblioteca de fotos auto-hospedada com álbuns por EXIF, visualização em mapa, reconhecimento facial on-device. Roda 100% em Docker. Sem dependência de SaaS. <i>Suas fotos, sua máquina.</i> <a href="https://github.com/PaNdassauro/Memora-OpenSource">(versão open source)</a></td>
+  </tr>
+</table>
 
-### $\color{#4A90E2}{\textsf{a stack que eu sempre volto}}$
+### $\color{#4A90E2}{\textsf{minha stack}}$
 
-```
-TypeScript • Supabase • Postgres (PLpgSQL) • Vercel • Docker
-React • React Native / Expo • Tailwind • Shadcn
-Python pros pedaços de ML • Flutter quando bate a coragem
-```
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### $\color{#7AC74F}{\textsf{atualmente obcecado com}}$
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- auto-hospedar tudo que não precisa ser SaaS
-- fazer o WhatsApp fazer coisa pra qual ele não foi desenhado
-- ML on-device pra fluxo de fotos (face recognition, EXIF wrangling)
-- o pipeline "subir hoje, refatorar amanhã"
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### $\color{#B084CC}{\textsf{side quests}}$
 
-- **sidequest** — app de daily-vlog onde um amigo do grupo é sorteado por dia pra filmar a rotina
 - **PoseIt** — câmera que sugere pose com silhueta sobreposta
-- **PyTranscricaoAudio** — porque transcrever áudio na mão é pra quem tem paciência
 
 ### $\color{#FF6B35}{\textsf{me achar por aqui}}$
 
-- email: `mateus@welcometrips.com.br`
-- repos aí em cima. demo ao vivo na descrição da maioria.
+**email** — `dhgabardo@gmail.com`
 
 > $\color{#888888}{\textsf{"vamo nessa" — eu, antes de cada commit}}$
