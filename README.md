@@ -50,6 +50,6 @@ $ cat ~/.stack
 
 ---
 
-> "vamo nessa"
+> "INFLAMAAA, BORA"
 
 <p align="center"><i>𝓵𝓪 𝓳𝓸𝔂</i> social club</p>
